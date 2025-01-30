@@ -23,6 +23,7 @@ function App() {
           display: "flex",
           flexDirection: "column",
           gap: "80px",
+          alignItems: "center",
         }}
       >
         <Form1 />

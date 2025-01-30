@@ -51,7 +51,7 @@ export default function Form2() {
         display: "flex",
         flexDirection: "column",
         gap: "30px",
-        width: "50vw",
+        width: "80vw",
         border: "1px solid black",
         padding: "30px",
         borderRadius: "10px",
